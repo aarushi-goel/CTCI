@@ -1,3 +1,5 @@
+package ArraysAndStrings;
+
 import java.util.*;
 public class Q1o6 {
     private String compress(String s){

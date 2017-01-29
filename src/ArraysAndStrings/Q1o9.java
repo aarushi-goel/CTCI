@@ -1,3 +1,5 @@
+package ArraysAndStrings;
+
 import java.util.*;
 public class Q1o9 {
     private boolean rotation(String s, String sb){

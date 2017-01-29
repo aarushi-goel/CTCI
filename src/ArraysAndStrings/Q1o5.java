@@ -1,3 +1,5 @@
+package ArraysAndStrings;
+
 import java.util.*;
 public class Q1o5 {
     private boolean away(String s1, String s2){

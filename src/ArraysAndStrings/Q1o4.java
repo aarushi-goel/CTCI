@@ -1,3 +1,5 @@
+package ArraysAndStrings;
+
 import java.util.*;
 public class Q1o4 {
     private boolean palin(String s){
